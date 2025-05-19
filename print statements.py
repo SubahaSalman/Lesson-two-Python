@@ -1,0 +1,5 @@
+print("Hello")
+print(5)
+print("How are you? \n")
+print("I am fine", 4)
+print("Welcome to", "python class", end="^")
